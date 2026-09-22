@@ -1,0 +1,21 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+*~
+
+# ОС
+.DS_Store
+Thumbs.db
