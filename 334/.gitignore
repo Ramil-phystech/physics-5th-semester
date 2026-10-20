@@ -1,0 +1,10 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# ОС
+.DS_Store
+Thumbs.db
