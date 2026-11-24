@@ -1,0 +1,16 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Фото камеры — большой объём (~1.1 ГБ), в репозиторий не коммитим
+data/photos/
+
+# Рабочие заметки
+кадры_кандидаты.md
